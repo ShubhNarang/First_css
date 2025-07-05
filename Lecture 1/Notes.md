@@ -24,3 +24,27 @@ h1{
     text-align: center;
     }
 ```
+
+# Selector
+
+1. Elements
+     ```
+    <p>, <h1>, <article> 
+    ```
+
+2. Id selector
+    ```
+    <p id='abc'>
+    #abc{color:brown}
+    ```
+
+3. Class selector
+    ```
+    <p class='paraclass'>
+    .paraclass{color:yellow}
+    ```
+
+4. Group selector
+    ```
+    p,article{width: 500px;}
+    ```
